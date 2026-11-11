@@ -3,5 +3,6 @@
   "minecraft": "1.21.1",
   "loader": {"name": "neoforge", "version": "21.1.265"},
   "files": [
+    {"path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar", "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693", "size": 1292934, "curseforge": {"projectId": 394468, "fileId": 8756580, "url": "https://edge.forgecdn.net/files/8756/580/sodium-neoforge-0.8.13%2bmc1.21.1.jar"}}
   ]
 }
