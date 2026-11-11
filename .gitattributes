@@ -1,0 +1,3 @@
+.githooks/* text eol=lf
+mods.lock.json text eol=lf
+config/iris.properties filter=iris

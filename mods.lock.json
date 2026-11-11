@@ -1,0 +1,7 @@
+{
+  "formatVersion": 2,
+  "minecraft": "1.21.1",
+  "loader": {"name": "neoforge", "version": "21.1.265"},
+  "files": [
+  ]
+}
