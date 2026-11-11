@@ -63,3 +63,22 @@ resourcepacks/*.disabled
 shaderpacks/*.disabled
 datapacks/*.disabled
 config/spark/
+
+# ------------------------------------------------------------
+# CreateVanillaPlus: local-only settings and test artifacts
+# Keep config/defaultoptions/ and shared mod configs tracked.
+# ------------------------------------------------------------
+
+# Per-player Minecraft settings (Default Options supplies pack defaults)
+/options.txt
+
+# Inventory Profiles Next: data created for this temporary test world
+/config/inventoryprofilesnext/New World/
+
+# Temporary JEI settings generated during the local test server
+/config/jei/server/world/default/jei-server.ini
+
+# NeoForge's generated local server config.
+# If we intentionally tune server defaults, remove this ignore rule
+# and commit the reviewed config, using defaultconfigs/ when appropriate.
+/config/neoforge-server.toml
