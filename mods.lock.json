@@ -26,6 +26,7 @@
     {"path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar", "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74", "size": 77326, "curseforge": {"projectId": 858542, "fileId": 5831692, "url": "https://edge.forgecdn.net/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar"}},
     {"path": "mods/shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar", "sha1": "bddbccd689529f7f7ab04479e62c5e09b0be6be5", "size": 381204, "curseforge": {"projectId": 315811, "fileId": 7768285, "url": "https://edge.forgecdn.net/files/7768/285/shulkerboxtooltip-neoforge-5.1.9%2b1.21.1.jar"}},
     {"path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar", "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693", "size": 1292934, "curseforge": {"projectId": 394468, "fileId": 8756580, "url": "https://edge.forgecdn.net/files/8756/580/sodium-neoforge-0.8.13%2bmc1.21.1.jar"}},
-    {"path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar", "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb", "size": 1118651, "curseforge": {"projectId": 667299, "fileId": 7437845, "url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar"}}
+    {"path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar", "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb", "size": 1118651, "curseforge": {"projectId": 667299, "fileId": 7437845, "url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar"}},
+    {"path": "resourcepacks/Default-Dark-Mode-1.20.2+-2025.5.0.zip", "sha1": "176424b313f5cc70cdcf37f4cf55af3bab95dc50", "size": 748843, "curseforge": {"projectId": 349116, "fileId": 6565908, "url": "https://edge.forgecdn.net/files/6565/908/Default-Dark-Mode-1.20.2%2b-2025.5.0.zip"}}
   ]
 }
